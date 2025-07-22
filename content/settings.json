@@ -3,19 +3,19 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "spacelab",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/multikairos",
-  "logo": "/img/uploads/images-1-.png",
+  "logo": "/img/uploads/screenshot_4.png",
   "name": "multikairos",
   "short_name": "multikairos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/images.png",
+  "favicon": "/img/uploads/screenshot_3.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
